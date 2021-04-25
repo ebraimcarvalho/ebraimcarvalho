@@ -17,11 +17,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/ebraimcarvalho" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="ebraimcarvalho" height="30" width="30" /></a>
-<a href="https://twitter.com/ebraimcarvalho" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/pt/thumb/3/3d/Twitter_logo_2012.svg/1200px-Twitter_logo_2012.svg.png" alt="ebraimcarvalho" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ebraimcarvalho" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="ebraimcarvalho" height="30" width="30" /></a>
-<a href="https://fb.com/ebraimcarvalho" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/1365px-Facebook_f_logo_%282019%29.svg.png" alt="ebraimcarvalho" height="30" width="30" /></a>
-<a href="https://instagram.com/ebraimcarvalho" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Instagram.svg/1200px-Instagram.svg.png" alt="ebraimcarvalho" height="30" width="30" /></a>
+<a href="https://dev.to/ebraimcarvalho" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="ebraimcarvalho" height="30" width="30" /></a>
+<a href="https://twitter.com/ebraimcarvalho" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/pt/thumb/3/3d/Twitter_logo_2012.svg/1200px-Twitter_logo_2012.svg.png" alt="ebraimcarvalho" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ebraimcarvalho" target="_blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="ebraimcarvalho" height="30" width="30" /></a>
+<a href="https://fb.com/ebraimcarvalho" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/1365px-Facebook_f_logo_%282019%29.svg.png" alt="ebraimcarvalho" height="30" width="30" /></a>
+<a href="https://instagram.com/ebraimcarvalho" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Instagram.svg/1200px-Instagram.svg.png" alt="ebraimcarvalho" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
