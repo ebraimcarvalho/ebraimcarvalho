@@ -1,5 +1,9 @@
-<h1 align="center">Hello!!! I'm Ebraim Carvalho</h1>
-<h3 align="center">A Front-end developer and a data engineer student</h3>
+<h1 align="center"> Hi there 👋! I'm Ebraim Carvalho </h1>
+<h3 align="center"> A Front-end developer and a data engineer student. </h3>
+
+##### I am deepening my studies in data engineering, big data, distributed computing, clean code, design patterns, systems architecture and data-driven projects.
+
+Skills: Python / Javascript / React Js / Vue Js / React Native / SQL / NoSQL / Hadoop / Spark
 
 - 🔭 I’m currently working on **Meta IT Company**
 
@@ -13,15 +17,15 @@
 
 - 📫 How to reach me **ebraimcarvalho@gmail.com**
 
-- 📄 Know about my experiences [https://ebradeveloper.netlify.app/assets/ebraim-carvalho-resume.pdf](https://ebradeveloper.netlify.app/assets/ebraim-carvalho-resume.pdf)
-
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/ebraimcarvalho" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="ebraimcarvalho" height="30" width="30" /></a>
-<a href="https://twitter.com/ebraimcarvalho" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/pt/thumb/3/3d/Twitter_logo_2012.svg/1200px-Twitter_logo_2012.svg.png" alt="ebraimcarvalho" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ebraimcarvalho" target="_blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="ebraimcarvalho" height="30" width="30" /></a>
-<a href="https://fb.com/ebraimcarvalho" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/1365px-Facebook_f_logo_%282019%29.svg.png" alt="ebraimcarvalho" height="30" width="30" /></a>
-<a href="https://instagram.com/ebraimcarvalho" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Instagram.svg/1200px-Instagram.svg.png" alt="ebraimcarvalho" height="30" width="30" /></a>
+<p>
+  <a href="https://github.com/ebraimcarvalho" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="ebraimcarvalho" height="40" width="30" /></a>
+  <a href="https://dev.to/ebraimcarvalho" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="ebraimcarvalho" height="40" width="30" /></a>
+  <a href="(https://www.linkedin.com/in/ebraimcarvalho/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ebraimcarvalho" height="40" width="30" /></a>
+  <a href="https://www.facebook.com/ebraimcarvalho" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="ebraimcarvalho" height="40" width="30" /></a>
+  <a href="https://www.instagram.com/ebraimcarvalho/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ebraimcarvalho" height="40" width="30" /></a>
+  <a href="https://twitter.com/ebraimcarvalho" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ebraimcarvalho" height="40" width="30" /></a>
+  <a href="https://ebradeveloper.netlify.app/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg" alt="ebraimcarvalho" height="40" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -58,3 +62,25 @@
   <a href="https://mochajs.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a>
   <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 </p>
+  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ebraimcarvalho)](https://github.com/ryo-ma/github-profile-trophy)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ebraimcarvalho&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ebraimcarvalho)  
+
+![GitHub metrics](https://metrics.lecoq.io/ebraimcarvalho)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ebraimcarvalho)  
+
+![Profile views](https://gpvc.arturio.dev/ebraimcarvalho)  
+
+
+
+
+
+
+
+
+
