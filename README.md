@@ -5,7 +5,7 @@
 
 Skills: Python / Javascript / React Js / Vue Js / React Native / SQL / NoSQL / Hadoop / Spark
 
-- 🔭 I’m currently working on **Meta IT Company**
+- 🔭 I’m currently working at **Meta IT Company**
 
 - 🌱 I’m currently learning **Hadoop, Spark, Docker, SQL, NoSQL**
 
@@ -34,6 +34,9 @@ Skills: Python / Javascript / React Js / Vue Js / React Native / SQL / NoSQL / H
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://hadoop.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a>
   <a href="https://hive.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a>
+  <a href="https://spark.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" alt="spark" width="40" height="40"/> </a>
+  <a href="https://sqoop.apache.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Apache_Sqoop_logo.svg" alt="sqoop" width="40" height="40"/> </a>
+  <a href="https://hbase.apache.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/hbase.svg" alt="hbase" width="40" height="40"/> </a>
   <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
   <a href="https://cassandra.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a>
   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
@@ -62,9 +65,7 @@ Skills: Python / Javascript / React Js / Vue Js / React Native / SQL / NoSQL / H
   <a href="https://mochajs.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a>
   <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 </p>
-  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ebraimcarvalho)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ebraimcarvalho&show_icons=true)  
 
