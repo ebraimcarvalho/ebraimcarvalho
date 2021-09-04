@@ -1,19 +1,19 @@
 <h1 align="center"> Hi there 👋! I'm Ebraim Carvalho </h1>
-<h3 align="center"> A Front-end developer and a data engineer student. </h3>
+<h3 align="center"> Data Engineer and Software Engineer Analyst. </h3>
 
 ##### I am deepening my studies in data engineering, big data, distributed computing, clean code, design patterns, systems architecture and data-driven projects.
 
-Skills: Python / Javascript / React Js / Vue Js / React Native / SQL / NoSQL / Hadoop / Spark
+Skills: Python / SQL / NoSQL / Hadoop / Spark / AWS / Azure / Javascript / React Js / Vue Js / React Native
 
-- 🔭 I’m currently working at **Meta IT Company**
+- 🔭 I’m currently working at **Accenture**
 
-- 🌱 I’m currently learning **Hadoop, Spark, Docker, SQL, NoSQL**
+- 🌱 I’m currently learning **Hadoop, Spark, Docker, SQL, NoSQL, PL/SQL, Azure, AWS**
 
 - 👯 I’m looking to collaborate on **Data Engineering projects**
 
 - 👨‍💻 All of my projects are available at [https://ebradeveloper.netlify.app/](https://ebradeveloper.netlify.app/)
 
-- 💬 Ask me about **Python, Javascript, Vue Js, React Js, CSS, SASS, HTML**
+- 💬 Ask me about **Python, SQL, NoSQL, AWS, Azure, Javascript, Vue Js, React Js, CSS, SASS, HTML**
 
 - 📫 How to reach me **ebraimcarvalho@gmail.com**
 
