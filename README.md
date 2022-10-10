@@ -1,11 +1,11 @@
 <h1 align="center"> Hi there 👋! I'm Ebraim Carvalho </h1>
-<h3 align="center"> Data Engineer and Software Engineer Analyst. </h3>
+<h3 align="center"> Data Engineer and Software Engineer. </h3>
 
 ##### I am deepening my studies in data engineering, big data, distributed computing, clean code, design patterns, systems architecture and data-driven projects.
 
 Skills: Python / SQL / NoSQL / Hadoop / Spark / AWS / Azure / Javascript / React Js / Vue Js / React Native
 
-- 🔭 I’m currently working at **Accenture**
+- 🔭 I’m currently working at **Grupo Boticário**
 
 - 🌱 I’m currently learning **Hadoop, Spark, Docker, SQL, NoSQL, PL/SQL, Azure, AWS**
 
